@@ -1,6 +1,7 @@
 {
   "functions": [
     {
+      "linting": false,
       "source": "functions",
       "codebase": "default",
       "ignore": [
